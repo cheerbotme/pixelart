@@ -8,6 +8,28 @@ Basic pixelart functionality for a Raspberry Pi Zero W with a [Pimoroni unicorn 
 
 </p>
 
+## BuffiGWEI challenge! 
+
+Can you make a better 16x16 BuffiGWEI sprite than this 16x16 pixelart?
+
+Do it before https://schellingpoint.gitcoin.co at ETHDenver and you might get your pixel displayed at Schelling Point!
+
+<p align="left">
+
+   <img src="https://user-images.githubusercontent.com/3211305/153782055-150bc5df-1699-46f5-8e73-412339c39575.png" width="25%">
+
+</p>
+
+For context, this is the BuffiGWEI cartoon:
+
+<p align="left">
+
+   <img src="https://user-images.githubusercontent.com/3211305/153782026-4ae4137a-1459-4db6-97ab-e7d018a0701f.jpeg" width="25%">
+
+</p>
+
+If so, share it on this repo with a pull request or tag @bestape in a tweet with your submission.
+
 ## how to make a sprite with SVG
 
 Use the `greenpill.svg` as a template and output the PNG as a `16x512` pixel file.
