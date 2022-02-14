@@ -113,3 +113,7 @@ When you have entered the Raspberry Pi with SSH:
   * save and exit the file
 
 * install the unicorn hd HAT dependencies with `curl https://get.pimoroni.com/unicornhathd | bash`
+
+## join the Discord and help buidl cheerbot
+
+https://discord.gg/KXzXR7DVqb
