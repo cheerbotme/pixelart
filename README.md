@@ -4,9 +4,17 @@ Basic pixelart functionality for a Raspberry Pi Zero W with a [Pimoroni unicorn 
 
 <p align="left">
 
+   <img src="https://user-images.githubusercontent.com/3211305/156248954-0797aaf1-b347-4686-9215-875d67e3c85a.gif" width="25%">
+   
+</p>
+
+<p align="left">
+
    <img src="https://user-images.githubusercontent.com/3211305/153781064-9af06cec-1ed1-4ec5-ac61-96858b8ebcd2.gif" width="25%">
 
 </p>
+
+<!-- 
 
 ## BuffiGWEI challenge! 
 
@@ -29,6 +37,8 @@ For context, this is the BuffiGWEI cartoon:
 </p>
 
 If so, share it on this repo with a pull request or tag @bestape in a tweet with your submission.
+
+-->
 
 ## how to make a sprite with SVG
 
