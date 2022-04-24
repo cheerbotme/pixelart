@@ -124,6 +124,10 @@ When you have entered the Raspberry Pi with SSH:
 
 * install the unicorn hd HAT dependencies with `curl https://get.pimoroni.com/unicornhathd | bash`
 
+## statue CAD
+
+You can use [this file](https://drive.google.com/drive/folders/1zh0SAelGMK8f4efU505Vg_LhKzLCtKNw) under a CC BY-NC-SA 4.0 license but with the extra restriction that you can only do so within CAD and 3D printed mediums.
+
 ## join the Discord and help buidl cheerbot
 
 https://discord.gg/KXzXR7DVqb
