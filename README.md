@@ -10,7 +10,7 @@ Basic pixelart functionality for a Raspberry Pi Zero W with a [Pimoroni unicorn 
 
 <p align="left">
 
-   <img src="https://user-images.githubusercontent.com/3211305/164996956-cafc7684-4e20-482e-918d-e858d7d63bf5.gif" width="25%">
+   <img src="https://user-images.githubusercontent.com/3211305/166298246-1f76147a-a0a3-4b12-b5dc-8e730bb33632.gif" width="25%">
    
 </p>
 
