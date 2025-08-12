@@ -132,7 +132,7 @@ When you have entered the Raspberry Pi with SSH:
 
 ## statue CAD
 
-You can use [this file](https://drive.google.com/drive/folders/1zh0SAelGMK8f4efU505Vg_LhKzLCtKNw) under a CC BY-NC-SA 4.0 license but with the extra restriction that you can only do so within CAD and 3D printed mediums.
+You can use [this file](https://drive.google.com/drive/folders/1zh0SAelGMK8f4efU505Vg_LhKzLCtKNw) under a CC BY-NC-SA 4.0 license but with the extra restriction that you can only do so within CAD and 3D printed mediums. Aug 11 2025 update: use [this file](https://drive.google.com/drive/folders/1hGrVydtOz-BNX1c45rd-ukadVbxcRs0b).
 
 ## join the Discord and help buidl cheerbot
 
